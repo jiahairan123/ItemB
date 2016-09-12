@@ -8,6 +8,7 @@ package com.example.dllo.itemb;
 public class NormalJia {
 
     int name;
+    //加害二胺2121
 
     public NormalJia(int name) {
         this.name = name;
