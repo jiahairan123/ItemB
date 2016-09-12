@@ -5,7 +5,6 @@ import android.os.Bundle;
 import android.widget.ImageView;
 
 public class MainActivity extends AppCompatActivity {
-    private int abc;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -15,7 +14,6 @@ public class MainActivity extends AppCompatActivity {
         //22222
         //ceshi
         //ceshi
-
 
 
     }
