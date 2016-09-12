@@ -11,6 +11,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //ceshi
-        //贾海然夫妻欺负人
     }
 }
