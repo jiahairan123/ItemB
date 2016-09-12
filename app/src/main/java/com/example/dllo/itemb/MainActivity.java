@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //ceshiwewew\
         ImageView iv = (ImageView) findViewById(R.id.main);
+        //22222
     }
 }
